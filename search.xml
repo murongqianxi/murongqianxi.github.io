@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>ToDo</title>
+      <link href="/2021/06/28/ToDo/"/>
+      <url>/2021/06/28/ToDo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="ToDo"><a href="#ToDo" class="headerlink" title="ToDo"></a>ToDo</h1><ol><li><del>搜集一些图片作为文章的封面</del>(已于2021年6月29日完成)</li><li>写markdown教程<ul><li>tags: markdown</li><li>categories: 杂谈</li></ul></li><li><del>修改右下角的按钮位置,使其与DITIO的图标互不遮挡</del>(已于2021年6月29日完成)</li><li>编写友情链接界面</li><li>编写音乐界面</li><li>编写电影界面</li><li>修改页脚的文字图标</li><li>修改公告内容</li><li>为标签和分类添加图标</li><li><del>研究一下aplayer</del>(已于2021年6月29日完成)</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>博客概述</title>
+      <link href="/2021/06/28/%E5%8D%9A%E5%AE%A2%E6%A6%82%E8%BF%B0/"/>
+      <url>/2021/06/28/%E5%8D%9A%E5%AE%A2%E6%A6%82%E8%BF%B0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h1><ul><li>建立时间: 2021年6月24日</li><li>框架: hexo</li><li>主题: butterfly</li><li>域名: <blockquote><ol><li><a href="https://www.lzmsst0508051020.xyz/">https://www.lzmsst0508051020.xyz</a></li><li><a href="https://serverless-page-bucket-plcq1v9i-1306344634.cos-website.ap-beijing.myqcloud.com/">https://serverless-page-bucket-plcq1v9i-1306344634.cos-website.ap-beijing.myqcloud.com</a><br>(<strong>这两个域名都一样，第1个是我部署到github上的网址，自定义了域名而已;第2个是我部署到coding上的网址，浏览速度应该会比第一个网址快一些,如果第一个不能用就用第二个。</strong>)</li></ol></blockquote></li></ul><h1 id="用途"><a href="#用途" class="headerlink" title="用途"></a>用途</h1><ul><li>主要是用来记录一些我在学习python过程中的笔记</li><li>还有一些个人的杂谈,也就当作微信的朋友圈和QQ的动态使用了</li><li>还会刊登一些我朋友的小说</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
