@@ -5415,7 +5415,7 @@ div#runtime {
   z-index: 22;
 }
 #vcomment textarea {
-  background: url("/img/comment_bg.png") 100% 100% no-repeat;
+  background: url("https://cdn.jsdelivr.net/gh/murongqianxi/murongqianxi.github.io/img/comment_bg.webp") 100% 100% no-repeat;
 }
 #vcomment textarea:focus {
   background-image: none;
