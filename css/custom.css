@@ -4,8 +4,10 @@
     font-display : swap;
 }
 
+
 body {
-    font-family: 'Liu Gongqing', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
+    /* font-family: 'Liu Gongqing', -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;*/
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif;
 }
 
 /* 全局默认鼠标指针 */
